@@ -1,0 +1,20 @@
+.navbar-default{ background: #007CC1 !important; }
+.panel-primary > .panel-heading {
+    background-color: -webkit-linear-gradient(top,#515b6b 0,#515b6b 100%) !important;
+    background-image: -o-linear-gradient(top,#515b6b 0,#515b6b 100%)!important;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#515b6b),to(#515b6b))!important;
+    background-image: linear-gradient(to bottom,#515b6b,#515b6b 100%)!important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#515b6b', endColorstr='#515b6b', GradientType=0)!important;
+    background-repeat: repeat-x !important;
+}
+.panel-border{border-color:#ddd !important;border:2px solid;}
+.trade-accepted {color:#5cb85c; margin: 15px; font-size: 20px;}
+.trade-pending {color:#ce4844;  margin: 15px; font-size: 20px;}
+.tradeId {color:#1b809e;}
+.form-group, .table {margin-bottom:0px !important}
+.form-data{margin-top: 8px;}
+.form-label{padding-right: 0px !important;}
+.transactionDetail{ height:420px; overflow-x: hidden; overflow-y: auto; }
+.rows{ height:10px;}
+
+#ng-loading-overlay { font-size: 23px; font-weight: bold;}

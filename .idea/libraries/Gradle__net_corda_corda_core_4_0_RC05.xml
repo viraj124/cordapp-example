@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.corda:corda-core:4.0-RC05">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-core/4.0-RC05/5a01cd0b2f601d577cd23000b631767b61d49200/corda-core-4.0-RC05.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-core/4.0-RC05/fbe8bd2f42abd5b2bd947bd4f409ce71d7639e9f/corda-core-4.0-RC05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

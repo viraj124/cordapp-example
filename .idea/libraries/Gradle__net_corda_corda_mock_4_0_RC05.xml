@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.corda:corda-mock:4.0-RC05">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-mock/4.0-RC05/d6c7b04b5e2391c5cf63d379c2b328906f821123/corda-mock-4.0-RC05.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-mock/4.0-RC05/5e437dc8c456bff545354c1ca03782a84ade99cb/corda-mock-4.0-RC05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
